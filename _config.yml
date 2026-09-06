@@ -3,7 +3,7 @@
 
 title: Ameer
 description: Hi, I am Ameer.
-# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
+baseurl: ""
 url: "https://ahussain23.github.io" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
