@@ -64,7 +64,7 @@
 /* Dark Mode Color Overrides */
 @media (prefers-color-scheme: dark) {
     :root {
-        --background-color: #0D1B12; /* Dark pine shadow */
+        --background-color: #0A0A0A; /* Dark pine shadow */
         --heading-color: #C8D8CE; /* Light pine mist */
         --text-color: #E0EADE; /* Pale forest light */
         --link-color: #7AB069; /* Bright moss green */
