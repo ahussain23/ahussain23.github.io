@@ -54,7 +54,7 @@ exclude:
 - README.md
 - LICENSE.md
 
-Blog: /blog
+Home: /blog
 
 # Add general links to site pages here
 links:
