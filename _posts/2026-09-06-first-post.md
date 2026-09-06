@@ -18,6 +18,6 @@ Regular paragraphs, **bold**, *italic*, [links](https://example.com), and:
 
 `inline code` and fenced blocks:
 
-```python3
+```python
 print("hello")
 ```
