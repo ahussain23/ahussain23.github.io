@@ -2,7 +2,7 @@
 layout: post
 title: "My First Post"
 date: 2026-09-06 14:30:00 +0000
-tags: [general]
+tags: [not general]
 ---
 
 Write your post here in Markdown.
