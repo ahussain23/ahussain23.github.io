@@ -331,4 +331,17 @@ input[type=reset] {
     opacity: 0.7;
 }
       
-  
+
+/* =============================================================================
+   SYNTAX HIGHLIGHTING (Rouge)
+   ============================================================================= */
+
+.highlight .c, .highlight .c1, .highlight .cm { color: #6A737D; font-style: italic; } /* comments */
+.highlight .k, .highlight .kd, .highlight .kn, .highlight .kt { color: #C678DD; }     /* keywords */
+.highlight .s, .highlight .s1, .highlight .s2, .highlight .sb { color: #98C379; }     /* strings */
+.highlight .m, .highlight .mi, .highlight .mf { color: #D19A66; }                     /* numbers */
+.highlight .nf, .highlight .nd { color: #61AFEF; }                                    /* functions */
+.highlight .nc, .highlight .nn { color: #E5C07B; }                                    /* classes */
+.highlight .o, .highlight .ow { color: #56B6C2; }                                     /* operators */
+.highlight .nb { color: #56B6C2; }                                                    /* builtins */
+.highlight .err { color: inherit; background: none; }
