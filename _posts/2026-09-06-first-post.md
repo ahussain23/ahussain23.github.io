@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Reproducing a paper: XGBoost"
-date: 2026-09-06 14:30:00 +0000
+date: 2026-09-24 14:30:00 +0000
+tags: ['xgboost']
 ---
 
 ## Introduction
